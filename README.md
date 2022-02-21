@@ -5,9 +5,12 @@
 
 # My Information
 
- *Name: Gian Carlo Santos
- *CWID: 886227875
- *Email: gsantos08@csu.fullerton.edu
+* Name: Gian Carlo Santos
+* CWID: 886227875
+* Email: gsantos08@csu.fullerton.edu
 
-#extra notes
+# extra notes
 well uh i hope i got this right. You are pretty chill.
+
+# note 2
+i see my mistake. hopefully this fixes it. commit and pushing again.
